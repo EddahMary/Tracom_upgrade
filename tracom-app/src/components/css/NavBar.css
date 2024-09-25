@@ -1,0 +1,26 @@
+.navbar{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 20px;
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    /* margin-top: 20px; */
+    /* margin-left: 150px; */
+}
+
+.navlink {
+    margin: 20px;
+   
+}
+
+.navlink , a {
+    text-decoration: none;
+    
+}
+
+.navlink :hover{
+    color: red;
+}
